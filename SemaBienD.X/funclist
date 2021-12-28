@@ -1,0 +1,17 @@
+_leerEntradasC: CODE, 670 0 56
+_configADC: CODE, 435 0 13
+_main: CODE, 189 0 158
+_configComparadores: CODE, 455 0 4
+_configDevice: CODE, 347 0 19
+_configTimers: CODE, 397 0 38
+_configOscilador: CODE, 459 0 5
+_configPorts: CODE, 366 0 21
+_configCCP: CODE, 448 0 7
+_controlTiempos: CODE, 464 0 116
+___lbdiv: CODE, 643 0 27
+_var2num: CODE, 80 0 109
+_Display: CODE, 580 0 49
+_interrupciones: CODE, 17 0 63
+_configInterrupts: CODE, 387 0 10
+___bmul: CODE, 629 0 14
+Total: 709
